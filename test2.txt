@@ -3,4 +3,8 @@ master branch test
 =======
 testtestfeatures1
 
+<<<<<<< HEAD
 >>>>>>>pc test !
+=======
+>>>>>> notebook modify!
+>>>>>>> 681994007ed0025247566ef4a6611df349f35b52
