@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 master branch test
+=======
+testtestfeatures1
+
+>>>>>>> feature1
